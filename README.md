@@ -3,8 +3,7 @@
 # SOAPlite.jl
 Julia wrapper for SOAPLite Descriptor
 
-This package includes a simple code that demonstrates how to access SOAP descriptor using PyCall and QUIPPY. 
-Currently, it does not provide any other descriptor or features of QUIP and QUIPPY codes but new features would like to be added in future. 
+This package includes a simple code that demonstrates how to access SOAPlite descriptor using PyCall and SOAPlite Python package. 
 
 ## Dependencies:
 
