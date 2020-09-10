@@ -8,7 +8,7 @@ Currently, it does not provide any other descriptor or features of QUIP and QUIP
 
 ## Dependencies:
 
-- [SOAPlite](https://)
+- [SOAPlite](https://github.com/SINGROUP/SOAPLite)
 - [JuLIP.jl](https://github.com/JuliaMolSim/JuLIP.jl)
 - [PyCall.jl](https://github.com/JuliaPy/PyCall.jl)
 - [ASE.jl](https://github.com/JuliaMolSim/ASE.jl)
