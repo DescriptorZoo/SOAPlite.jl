@@ -24,7 +24,10 @@ Once you have installed the Python package that is used by your Julia installati
 
 ## How to cite:
 
-If you use this code and hence dependent code [SOAPlite](https://github.com/SINGROUP/SOAPLite), you need to accept the license of [SOAPlite](https://github.com/SINGROUP/SOAPLite) and cite both the code and the reference papers as they are described in code's [webpage](https://github.com/SINGROUP/SOAPLite).
+If you use this code, we would appreciate if you cite the following paper:
+- Berk Onat, Christoph Ortner, James R. Kermode, 	[arXiv:2006.01915 (2020)](https://arxiv.org/abs/2006.01915)
+
+As this code is a wrapper of dependent code [SOAPlite](https://github.com/SINGROUP/SOAPLite), you also need to accept the license of [SOAPlite](https://github.com/SINGROUP/SOAPLite) and cite both the code and the reference papers as they are described in code's [webpage](https://github.com/SINGROUP/SOAPLite).
 
 This includes the following references:
 
